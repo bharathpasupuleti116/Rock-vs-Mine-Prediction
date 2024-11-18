@@ -1,3 +1,5 @@
+# Rock vs Mine Prediction using SONAR Data and Machine Learning Alogrithm
+
 ## About
 
 Outwardly SONAR technique has
