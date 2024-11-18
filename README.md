@@ -39,6 +39,9 @@ Sonar data in a csv file is taken for training and testing purpose. Data preproc
 - I also learned about how different python libraries like scikit learn, numpy and pandas can be used to build and train the model.
 - Model evaluation using input data was also done in this project.
 
+## Results
+
+The notebook concludes with a summary of model performance. The best model achieved an accuracy of approximately at training data 83% and testing data 76%. You can view performance charts and metrics within the notebook.
 
 ## Acknowledgements
 
